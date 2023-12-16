@@ -1,0 +1,40 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #666;
+    margin: 0 0 1em 0;
+    font-weight: 100;
+    line-height: 1.5em;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    padding: 40px;
+    border-radius: 16px;
+    margin: 40px;
+  }
+
+.grid-contain {
+    display: grid;
+    padding: 40px;
+    border-radius: 16px;
+    margin: 40px;
+    
+}
+
+.progimg{
+    padding: 20px;
+    margin: 40px;
+
+}
+
+.prog{
+    padding: 20px;
+    margin: 40px; 
+    border-radius: 16px;
+}
+
+.box{
+    padding: 20px;
+    margin: 40px;
+}
+

@@ -1,23 +1,25 @@
-import logo from './logo.svg';
 import './App.css';
+import Formationinitiation from './components/FormationInitiation/Formationinitiation';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Formationtechnicien from './components/Formationhelpdesk/Formationhelpdesk';
+import Formationweb from './components/Formationweb/Formationweb';
+import Formationtech_pc_réseaux from './components/Formationtech_pc_réseaux/Formationtech_pc_réseaux';
+import Jobs from './components/Jobs/Jobs';
+import Formationhelpdesk from './components/Formationhelpdesk/Formationhelpdesk';
+import Inscription from './components/Inscription/Inscription';
+
+
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <Formationinitiation/> */}
+      {/* <Formationhelpdesk/> */}
+      {/* <Formationweb/> */}
+      {/* <Formationtech_pc_réseaux/> */}
+      {/* <Jobs/> */}
+      <Inscription/>
     </div>
   );
 }

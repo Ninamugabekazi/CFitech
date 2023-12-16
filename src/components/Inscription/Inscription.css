@@ -1,0 +1,12 @@
+form{
+    display: inline-block;
+    text-align: start;
+    padding: 40px;
+    border-radius: 16px;
+    box-shadow: 5px 10px 18px  #063970;
+    margin: 200px;
+}  
+
+.button{
+ text-align: center;
+}
