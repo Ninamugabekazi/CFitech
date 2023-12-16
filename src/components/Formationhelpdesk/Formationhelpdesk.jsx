@@ -31,7 +31,7 @@ export default function Formationhelpdesk() {
       </div>
       <div className='prog'>
      
-      <h1> <i class="fa-solid fa-file-lines" style={{color:'#063970', padding:'20px'}}></i><span style={{backgroundColor:'red'}}>Programmes des cours</span></h1>
+      <h1> <i class="fa-solid fa-file-lines" style={{color:'#063970', padding:'20px'}}></i><span style={{backgroundColor:'r	rgb(255, 153, 153)', }}>Programmes des cours</span></h1>
       <div className='liste'>
       <p><i class="fa-solid fa-gears" style={{color:'#063970'}}></i>Assistance Aux Utilisateurs De Bureautique</p>
        <p><i class="fa-solid fa-gears" style={{color:'#063970'}}></i>Installation, Configuration, Mise à Jour & Déploiement d’un Client Windows 10</p>
@@ -47,19 +47,19 @@ export default function Formationhelpdesk() {
      <div class="grid-container">
         <div>
         <i class="fa-solid fa-user" style={{fontSize:'40px', color:'#063970'}}></i>
-          <h2><span style={{backgroundColor:'red'}}>Pour qui ?</span></h2>
+          <h2><span style={{backgroundColor:'	rgb(255, 153, 153)'}}>Pour qui ?</span></h2>
           <p> Être demandeur (se) d’emploi inoccupé(e), inscrit(e) à Actiris et disponible à temps plein.</p>   
         </div>
           
         <div>
         <i class="fa-regular fa-calendar-days" style={{fontSize:'40px', color:'#063970'}}></i>
-          <h2><span style={{backgroundColor:'red'}}>Horaires:</span></h2>
+          <h2><span style={{backgroundColor:'	rgb(255, 153, 153)'}}>Horaires:</span></h2>
           <p>Lundi au vendredi 8h30 à 16h.</p>
         </div>
         
       <div>
       <i class="fa-solid fa-wand-magic-sparkles" style={{fontSize:'40px', color:'#063970'}}></i>
-          <h2><span style={{backgroundColor:'red'}}>Intéressé (e) ? Que faire</span></h2>
+          <h2><span style={{backgroundColor:'	rgb(255, 153, 153)'}}>Intéressé (e) ? Que faire</span></h2>
           <h5>Présentez-vous directement à notre adresse :</h5>
               <p>CFITECH</p>
               <p>Rue de l’EgLise Sainte-Anne 63</p>

@@ -7,6 +7,8 @@ import Formationtech_pc_réseaux from './components/Formationtech_pc_réseaux/Fo
 import Jobs from './components/Jobs/Jobs';
 import Formationhelpdesk from './components/Formationhelpdesk/Formationhelpdesk';
 import Inscription from './components/Inscription/Inscription';
+import Serviceweb from './components/Serviceweb/Serviceweb';
+import Servicestech from './components/Servicestech/Servicestech';
 
 
 
@@ -19,7 +21,9 @@ function App() {
       {/* <Formationweb/> */}
       {/* <Formationtech_pc_réseaux/> */}
       {/* <Jobs/> */}
-      <Inscription/>
+      {/* <Inscription/> */}
+      <Serviceweb/>
+      {/* <Servicestech/> */}
     </div>
   );
 }
